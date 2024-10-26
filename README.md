@@ -1,8 +1,14 @@
+<br>
+<div align="center">
+ <h1>NekomataCode</h1>
+</div>
+<br>
+
 ![Codewars user NekomataCode](https://www.codewars.com/users/NekomataCode/badges/large)
 
 <br>
 <div align="center">
- <p>Cyber Security Enthusiast </p>
+ <p>Cyber Security Enthusiast</p>
 </div>
 <br>
 
