@@ -24,9 +24,9 @@
 ---
 
   <details>
-   <summary>💗 WAIFU</summary>
+   <summary>🤍 WAIFU</summary>
   
-   <h4>Senjougahara Hitagi</h4>
+   <h4>Ayla Kujou</h4>
   
    <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/1.gif" alt="A beautiful girl with white hair" loading="lazy" />
   
@@ -35,7 +35,7 @@
   </details>
   
 <details>
- <summary>📓 STATS</summary>
+ <summary>📚 STATS</summary>
 
  <br>
  
