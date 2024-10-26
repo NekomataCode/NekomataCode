@@ -22,18 +22,6 @@
 <br>
 
 ---
-
-<details>
- <summary>📓 STATS</summary>
-
- <br>
- 
- [![Hawari's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekomataCode&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=NekomataCode&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekomataCode&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
-
  <details>
 
   <details>
@@ -46,6 +34,17 @@
    <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/2.gif" alt="Ayla Kujou" width="500" />
    
   </details>
+  
+<details>
+ <summary>📓 STATS</summary>
+
+ <br>
+ 
+ [![Nekomata GitHub stats](https://github-readme-stats.vercel.app/api?username=NekomataCode&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=NekomataCode&theme=tokyonight&hide_border=true&border_radius=0.25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekomataCode&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
 
 </details>
 
