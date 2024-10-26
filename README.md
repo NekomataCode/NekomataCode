@@ -42,17 +42,8 @@
 
 ---
 <div align="center">
-   <h4>Waifu </h4>
-   <p>Ayla Mikhailnova</p>
-  
-   <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/1.gif" alt="A beautiful girl with white hair" loading="lazy" />
-  
-   <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/2.gif" alt="Ayla Kujou" width="500" />
-   
 
- <br>
-
- <h4>Stats</h4>
+  <h4>Stats</h4>
    <p>My Stats</p>
    
  [![Nekomata GitHub stats](https://github-readme-stats.vercel.app/api?username=NekomataCode&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&border_radius=0&hide_border=true)]()
@@ -61,10 +52,13 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekomataCode&layout=compact&theme=tokyonight&border_radius=0&hide_border=true&hide_progress=true&langs_count=25)]()
 
+<br>
+
+   <h4>Waifu </h4>
+   <p>Ayla Mikhailnova</p>
+  
+   <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/1.gif" alt="A beautiful girl with white hair" loading="lazy" />
+   
 </div>
 
 <br>
-
-<!-- 
- <summary></summary>
-</details> -->
