@@ -41,9 +41,9 @@
   
    <h4>Senjougahara Hitagi</h4>
   
-   <img src="https://3.bp.blogspot.com/-C0Vqff9M5kg/VrARw5HUSlI/AAAAAAAAXUE/tPpCuxIeneo/s1600/Omake%2BGif%2BAnime%2B-%2BKoyomimonogatari%2B-%2BEpisode%2B4%2B-%2BSenjougahara%2BYoga.gif" alt="A beautiful girl with purple hair doing yoga" loading="lazy" />
+   <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/1.gif" alt="A beautiful girl with white hair" loading="lazy" />
   
-   <img src="https://github.com/NekomataCode/NekomataCode/assets/90821837/6c1cc0bf-2f80-427c-a8c9-bf3dedda355a" alt="My Waifu. Senjougahara Hitagi" width="500" />
+   <img src="https://raw.githubusercontent.com/NekomataCode/NekomataCode/refs/heads/main/2.gif" alt="Ayla Kujou" width="500" />
    
   </details>
 
