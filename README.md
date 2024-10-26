@@ -22,7 +22,6 @@
 <br>
 
 ---
- <details>
 
   <details>
    <summary>💗 WAIFU</summary>
@@ -51,6 +50,5 @@
 <br>
 
 <!-- 
-<details>
  <summary></summary>
 </details> -->
