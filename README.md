@@ -23,7 +23,7 @@
 
 <div align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=3000&pause=500&color=F7347E&background=000000&center=true&vCenter=true&width=435&height=60&lines=Programming;Hacking;Cyber+Security;Enthusiast;%E7%8C%AB%E5%8F%88%E3%82%B3%E3%83%BC%E3%83%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=1000&pause=500&color=F7347E&center=true&vCenter=true&width=435&height=60&lines=Programming;Hacking;Cyber+Security;Enthusiast;%E7%8C%AB%E5%8F%88%E3%82%B3%E3%83%BC%E3%83%89" alt="Typing SVG" /></a>
 
 <br>
 <br>
