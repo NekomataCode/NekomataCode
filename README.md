@@ -1,8 +1,8 @@
 <br>
 <div align="center">
  <h1>NekomataCode</h1>
+
  
- ![Codewars user NekomataCode](https://www.codewars.com/users/NekomataCode/badges/large)
  
 </div>
 
