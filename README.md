@@ -5,10 +5,7 @@
  ![Codewars user NekomataCode](https://www.codewars.com/users/NekomataCode/badges/large)
  
 </div>
-<br>
-<div align="center">
- <p>Cyber Security Enthusiast</p>
-</div>
+
 <br>
 
 <div align="center">
