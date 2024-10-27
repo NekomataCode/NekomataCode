@@ -1,6 +1,7 @@
 <br>
 <div align="center">
  <h1>NekomataCode</h1>
+ <img src="https://i.pinimg.com/originals/10/93/89/109389157312ae5ae6b03a48a4e6706b.gif" alt="ngoding" loading="ya" />
  
  ![Codewars user NekomataCode](https://www.codewars.com/users/NekomataCode/badges/large)
  
@@ -19,8 +20,6 @@
 <br>
 
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/10/93/89/109389157312ae5ae6b03a48a4e6706b.gif" alt="ngoding" loading="ya" />
 
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=1000&pause=500&color=F7347E&center=true&vCenter=true&width=435&height=60&lines=Programming;Hacking;Cyber+Security;Enthusiast;%E7%8C%AB%E5%8F%88%E3%82%B3%E3%83%BC%E3%83%89" alt="Typing SVG" /></a>
